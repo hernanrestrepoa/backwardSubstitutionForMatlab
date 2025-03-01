@@ -2,7 +2,7 @@
 %hallar su solución por el método de eliminación gaussiana y 
 %sustitución hacia atrás, usando una matríz aumentada [A|b].
 
-function[A]=backreplace(archivodatos)
+function[A]=backwardSubstitution(archivodatos)
 
 %Esta función asigna a la variable matriz el archivo de 
 %datos externo y le indica que es de solo lectura.
