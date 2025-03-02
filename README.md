@@ -94,4 +94,5 @@ for p=1:1:n
     disp(x(p))
 end    
 disp('La Matríz Aumentada [B|d] Reducida y escalonada por filas es:')
+disp(B)
 return
